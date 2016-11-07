@@ -1,3 +1,0 @@
-# synzz.github.io
-
-Test
