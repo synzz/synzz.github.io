@@ -1,2 +1,0 @@
-#!/bin/bash
-rsync -av --delete --exclude .git  _site/ ~/gh/synzz.github.io
